@@ -1,5 +1,5 @@
 # Project Serenity 
-A project under 3.007 Design Thinking & Innovation (SUTD)
+A project under 3.007 Design Thinking & Innovation (SUTD)  
 Jan 2023 - Apr 2023
 
 ## Team Members
