@@ -18,9 +18,9 @@ GPIO.setup(31, GPIO.OUT)  #Rear 1st LED
 #------------------- Setup Database Variables -----------------------------#
 
 dburl = "https://dti-prototype-2023-default-rtdb.asia-southeast1.firebasedatabase.app/"
-email = "group7@test.com"
-password = "group7" 
-apikey = "AIzaSyC7XYj-HQkuS6jMRGuoQjG6givCY53xUes"
+email = ""
+password = "" 
+apikey = ""
 authdomain = dburl.replace("https://","")
 
 
