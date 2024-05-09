@@ -20,6 +20,6 @@ The idea behind this year's theme was as follows
 
 ## Remarks
 
-Link to full project documentation can be found [here](https://purplevenus9561.notion.site/Project-Part-4-Serenity-1fb6e9395da94e61a23522010fe90b8b?pvs=4 "Official Project Documentation")
+Link to full project documentation can be found at the About section of the repository.
 
 > From file ``firebase_downloader.py`` and ``firebase_updater.py``, the variables ``email``, ``password`` and ``apikey`` are empty strings for privacy reasons.
